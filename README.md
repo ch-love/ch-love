@@ -1,3 +1,3 @@
 <p align="center">
-    <img src="https://polar.vanished.lol/chlove-writeout.svg">
+    <img src="https://i.imgur.com/m7JzMAZ.png">
 </p>
